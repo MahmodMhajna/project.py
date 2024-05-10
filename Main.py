@@ -6,10 +6,10 @@ from lru_cache import LruCache
 
 
 def main():
-    print("Student 1 id: <322673211>")
+    print("Student 1 id: <322675555>")
     print("Student 1 Name: Abd Al Majid Ajmil")
 
-    print("Student 2 id: <323001206>")
+    print("Student 2 id: <323004444>")
     print("Student 2 Name: Mahmod Mhajna \n")
 
     cache1 = LruCache(3)
